@@ -1,16 +1,70 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**sanchitk866-glitch/sanchitk866-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Sanchit Kumar 👋
 
-Here are some ideas to get you started:
+### Building AI tools for Indian biology students | Founder @BioEdgeIndia | B.Sc. Life Sciences, Delhi University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitk866)
+[![BioEdge India](https://img.shields.io/badge/BioEdge_India-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://bioedgeindia.vercel.app)
+
+</div>
+
+---
+
+## 🔬 About Me
+
+- 2nd Semester B.Sc. Life Sciences student at **Sri Aurobindo College, Delhi University**
+- Solo founder of **[BioEdge India](https://bioedgeindia.vercel.app)** — a free AI-powered platform for Indian biology & life sciences students
+- Built it from scratch with **zero prior coding background**
+- Preparing for **IIT JAM Biotechnology 2028**
+
+---
+
+## 🚀 Currently Working On
+
+- 🧬 **BioEdge India** — AI tools, internship listings & career roadmaps for life sciences students
+- 🤖 **BioEdge PRO** — Gemini-powered biology chatbot (HTML/JS, deployed on Vercel)
+- 📊 **LinkedIn content series** on CRISPR, biotech & AI in biology
+
+---
+
+## 📚 Currently Learning
+
+- Molecular docking — AutoDock Vina, PyMOL, Schrödinger/Glide
+- Bioinformatics & Computational Biology
+- Web development (HTML · CSS · JS · Vercel)
+
+---
+
+## 💬 Ask Me About
+
+- Biology × AI — how to use AI tools as a life sciences student
+- Building real products as a non-CS student (zero budget)
+- IIT JAM Biotechnology preparation strategy
+- Internships in biodiversity, conservation & biotech research
+
+---
+
+## 📫 Reach Me
+
+- 🌐 [bioedgeindia.vercel.app](https://bioedgeindia.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanchit-kumar-rai/)
+
+---
+
+## ⚡ Fun Fact
+
+> Started building BioEdge India with zero coding background. Stack runs entirely on free tiers. Still shipping.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk866-glitch&layout=compact&theme=tokyonight&hide_border=true)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sanchitk866-glitch&color=brightgreen&style=flat-square)
+
+</div>
