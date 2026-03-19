@@ -51,7 +51,11 @@
 - 🌐 [bioedgeindia.vercel.app](https://bioedgeindia.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanchit-kumar-rai/)
 
----
+---![Sanchit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk866-glitch&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanchitk866-glitch&theme=tokyonight)
 
 ## ⚡ Fun Fact
 
