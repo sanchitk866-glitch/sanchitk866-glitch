@@ -8,8 +8,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-kumar-rai/)
 [![BioEdge India](https://img.shields.io/badge/BioEdge_India-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://bioedgeindia.vercel.app/)
+[![GeneScope Web](https://img.shields.io/badge/GeneScope_Web-000000?style=for-the-badge&logo=flask&logoColor=white)](https://dna-sequence-analyzer-gamma.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bioedgeindia.online)
 
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanchitk866-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 <br>
@@ -28,7 +37,7 @@
 <td width="60%">
 
 - 🌱 2nd Semester **B.Sc. Life Sciences** at Sri Aurobindo College, Delhi University
-- 🚀 Solo founder of **[BioEdge India](https://bioedgeindia.online)** — a free AI-powered platform for Indian life sciences & biology students
+- 🚀 Solo founder of **[BioEdge India](https://bioedgeindia.vercel.app/)** — a free AI-powered platform for Indian life sciences & biology students
 - 💻 Built everything from scratch — **zero prior coding background**, zero funding, zero team
 - 🚆 Daily commuter (~50 km), building in every gap between lectures and trains
 - 🎯 Preparing for **IIT JAM Biotechnology 2028**
@@ -44,12 +53,26 @@
 
 <br>
 
+## ⏳ The Journey
+
+<blockquote>
+  <b>2023</b> 🔬 Discovered biology has no good free resources in India.<br>
+  <b>2024</b> 🚀 Started BioEdge India. Zero code knowledge.<br>
+  <b>2024</b> 🧬 Shipped GeneScope Web. Completed first molecular docking.<br>
+  <b>2025</b> 🎯 Still building. IIT JAM 2028 locked in.
+</blockquote>
+
+<br>
+
 ## 🚀 What I've Built
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://bioedgeindia.vercel.app/">BioEdge India</a></h3>
+      <h3 align="center">🌐 BioEdge India</h3>
+      <p align="center">
+        <a href="https://bioedgeindia.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-22C55E?style=for-the-badge" alt="Live" /></a>
+      </p>
       <p align="center"><i>Free AI-powered platform for Indian life sciences students</i></p>
       <ul>
         <li>🤖 AI Biology Chatbot (Gemini-powered)</li>
@@ -59,7 +82,10 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 <a href="https://dna-sequence-analyzer-gamma.vercel.app/">GeneScope Web</a></h3>
+      <h3 align="center">🧬 GeneScope Web</h3>
+      <p align="center">
+        <a href="https://dna-sequence-analyzer-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-22C55E?style=for-the-badge" alt="Live" /></a>
+      </p>
       <p align="center"><i>Full-stack bioinformatics web app</i></p>
       <ul>
         <li>🔍 6-frame ORF finding & visualization</li>
@@ -67,6 +93,13 @@
         <li>🧪 Primer Tm Calculator</li>
         <li>📊 GC content & restriction site analysis</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <br>
+      <h3 align="center">📰 NEURAL FEED <i>(In Progress)</i></h3>
+      <p align="center"><i>AI news aggregator prototype built with React</i></p>
     </td>
   </tr>
 </table>
@@ -89,6 +122,14 @@
 | • **Databases:** NCBI, UniProt, PDB | • **Zoology:** Drosophila genetics, embryology, histology | • **R / ggplot2:** Genomics data analysis |
 | • **Analysis:** BLAST, Sequence alignment | • **Lab Basics:** Pipetting, buffer prep, microscopy | • **Structural Bio:** Molecular dynamics |
 
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -118,4 +159,5 @@
     <p><i>Building BioEdge India so no Indian biology student has to figure it out alone.</i></p>
   </blockquote>
 </div>
+
 
