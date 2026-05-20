@@ -116,7 +116,7 @@
       </a>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ATP_synthase.gif" width="120" alt="Rotating ATP Synthase 3D Model" />
+      <img src="https://media.giphy.com/media/xTiTndQ1jDcUEYOASw/giphy.gif" width="120" alt="Rotating 3D Model" />
     </td>
   </tr>
 </table>
