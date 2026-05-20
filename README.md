@@ -129,9 +129,11 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
-![Snake](https://github.com/sanchitk866-glitch/sanchitk866-glitch/blob/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
