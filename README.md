@@ -129,7 +129,9 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+![Snake](https://github.com/sanchitk866-glitch/sanchitk866-glitch/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <br>
@@ -159,5 +161,6 @@
     <p><i>Building BioEdge India so no Indian biology student has to figure it out alone.</i></p>
   </blockquote>
 </div>
+
 
 
