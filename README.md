@@ -108,11 +108,18 @@
 
 ## 💻 Tech Stack & Lab Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,github,vercel,linux,bash&perline=10" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="70%" align="center" valign="middle">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,github,vercel,linux,bash&perline=10" />
+      </a>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/ATP_synthase.gif" width="120" alt="Rotating ATP Synthase 3D Model" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   
@@ -163,6 +170,3 @@
     <p><i>Building BioEdge India so no Indian biology student has to figure it out alone.</i></p>
   </blockquote>
 </div>
-
-
-
