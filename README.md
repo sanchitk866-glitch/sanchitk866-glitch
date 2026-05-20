@@ -5,9 +5,9 @@
 
 ### Building AI tools for Indian biology students | Founder @BioEdgeIndia | B.Sc. Life Sciences, Delhi University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitk866)
+[![LinkedIn](https://www.linkedin.com/in/sanchit-kumar-rai/)
 [![BioEdge India](https://img.shields.io/badge/BioEdge_India-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://bioedgeindia.vercel.app)
-
+[![GeneScope Web](https://dna-sequence-analyzer-gamma.vercel.app/)
 </div>
 
 ---
