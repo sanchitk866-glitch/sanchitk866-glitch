@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22C55E,0A66C2&height=250&section=header&text=Sanchit%20Kumar&fontSize=70&fontAlignY=35&desc=Building%20at%20the%20intersection%20of%20AI%20×%20Life%20Sciences&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22C55E,0A66C2&height=250&section=header&text=Sanchit%20Kumar&fontSize=70&fontAlignY=35&desc=Data%20Science%20%2B%20Computational%20Biology%20%7C%20AI%20for%20Life%20Sciences&descAlignY=55&descAlign=50" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Solo+Founder;Computational+Biology+Enthusiast;B.Sc.+Life+Sciences+Undergrad;Building+BioEdge+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=Life+Sciences+Undergrad;Data+Science+Learner;Computational+Biology+Builder;Bioinformatics+%2B+AI+for+Biology;Building+BioEdge+India" alt="Typing SVG" />
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-kumar-rai/)
@@ -15,13 +15,138 @@
 
 <br>
 
+## About Me
+
+<table>
+<tr>
+<td width="62%">
+
+I am a **B.Sc. Life Sciences student at Sri Aurobindo College, University of Delhi**, building my path toward becoming a **data scientist in biotech or other data-driven fields**, with a strong foundation in **computational biology and AI-driven life sciences**.
+
+My goal is to become strong at the intersection of:
+
+- **Biology:** genetics, molecular biology, biotechnology, drug discovery, and omics
+- **Data Science:** Python, SQL, Excel, Power BI, statistics, machine learning, and visualization
+- **Computational Biology:** sequence analysis, molecular docking, MD simulation, RNA-seq, and biological databases
+- **AI for Education:** building accessible tools for Indian life sciences students
+
+I started with **zero coding background**, and I am learning by building real projects from scratch.
+
+</td>
+<td width="38%" align="center">
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreDAzdnVsdW1sc2I0dWlhaGpvZ2xkMzI0ZHNxYWU4NzBtbTNmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Life sciences animation"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Current Goal
+
+> To grow into a **data scientist** who can work in biotech, healthcare, research, or any data-driven field by combining **biology, statistics, programming, machine learning, and computational biology**.
+
+I am currently focused on:
+
+- Learning **Python for data science and biology**
+- Practicing **NumPy, pandas, seaborn, Matplotlib, statistics, visualization, and machine learning**
+- Building skills in **Excel, Power BI, SQL, R, and dashboarding**
+- Exploring **Biopython, BLAST, NCBI, UniProt, PDB, and sequence analysis**
+- Studying **molecular docking, MD simulation, RNA-seq, and computational drug discovery**
+- Completing **Microsoft DL-600** and **Data Analyst with AI by Physics Wallah**
+- Preparing for **IIT JAM Biotechnology 2028**
+- Building **BioEdge India** as a free learning platform for biology students
+
+<br>
+
+## What I Have Built
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BioEdge India</h3>
+      <p align="center">
+        <a href="https://bioedgeindia.vercel.app/"><img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge" alt="Live" /></a>
+      </p>
+      <p align="center"><i>Free AI-powered platform for Indian life sciences students</i></p>
+      <ul>
+        <li>AI Biology Chatbot powered by Gemini</li>
+        <li>Curated directory of 50+ AI tools</li>
+        <li>Career roadmaps for biotechnology and research</li>
+        <li>Career recommendation engine built with Claude</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">GeneScope Web</h3>
+      <p align="center">
+        <a href="https://dna-sequence-analyzer-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge" alt="Live" /></a>
+      </p>
+      <p align="center"><i>Bioinformatics web app for DNA sequence analysis</i></p>
+      <ul>
+        <li>6-frame ORF finding and visualization</li>
+        <li>Needleman-Wunsch global alignment</li>
+        <li>Primer melting temperature calculator</li>
+        <li>GC content and restriction site analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <br>
+      <h3 align="center">NEURAL FEED <i>(In Progress)</i></h3>
+      <p align="center"><i>AI news aggregator prototype built with React</i></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Skills I Am Building
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanchitk866-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+
+| Data Science & Analytics | Computational Biology | Life Sciences |
+|:---|:---|:---|
+| Python, R | Biopython | Molecular biology |
+| NumPy, pandas | BLAST, sequence alignment | Genetics |
+| Matplotlib, seaborn | NCBI, UniProt, PDB | Biotechnology |
+| Excel, Power BI | Molecular docking | DNA repair and expression |
+| SQL | MD simulation | RNA biology basics |
+| Statistics | RNA-seq analysis | Lab basics and microscopy |
+| Machine learning basics | AutoDock Vina, PyMOL | Drug discovery concepts |
+
+</div>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,github,vercel,linux,bash&perline=10" alt="Tech stack icons" />
   </a>
 </div>
 
 <br>
+
+## Learning Roadmap
+
+```text
+Biology foundation
+  -> Python and data analysis
+  -> Excel, SQL, Power BI, and dashboards
+  -> Statistics, R, and visualization
+  -> Bioinformatics databases and tools
+  -> Machine learning for biological data
+  -> Molecular docking, MD simulation, and structural biology
+  -> RNA-seq and omics data analysis
+  -> Research-grade computational biology projects
+```
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
@@ -30,110 +155,7 @@
 
 <br>
 
-## 🧬 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-- 🌱 2nd Semester **B.Sc. Life Sciences** at Sri Aurobindo College, Delhi University
-- 🚀 Solo founder of **[BioEdge India](https://bioedgeindia.vercel.app/)** — a free AI-powered platform for Indian life sciences & biology students
-- 💻 Built everything from scratch — **zero prior coding background**, zero funding, zero team
-- 🚆 Daily commuter (~50 km), building in every gap between lectures and trains
-- 🎯 Preparing for **IIT JAM Biotechnology 2028**
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreDAzdnVsdW1sc2I0dWlhaGpvZ2xkMzI0ZHNxYWU4NzBtbTNmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="DNA Animation"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ⏳ The Journey
-
-<blockquote>
-  <b>2023</b> 🔬 Discovered biology has no good free resources in India.<br>
-  <b>2024</b> 🚀 Started BioEdge India. Zero code knowledge.<br>
-  <b>2024</b> 🧬 Shipped GeneScope Web. Completed first molecular docking.<br>
-  <b>2025</b> 🎯 Still building. IIT JAM 2028 locked in.
-</blockquote>
-
-<br>
-
-## 🚀 What I've Built
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 BioEdge India</h3>
-      <p align="center">
-        <a href="https://bioedgeindia.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-22C55E?style=for-the-badge" alt="Live" /></a>
-      </p>
-      <p align="center"><i>Free AI-powered platform for Indian life sciences students</i></p>
-      <ul>
-        <li>🤖 AI Biology Chatbot (Gemini-powered)</li>
-        <li>🧰 Curated directory of 50+ AI tools</li>
-        <li>🗺️ Career Roadmaps for Biotech & Research</li>
-        <li>🎓 Career Recommendation Engine (Claude)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧬 GeneScope Web</h3>
-      <p align="center">
-        <a href="https://dna-sequence-analyzer-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live_↗-22C55E?style=for-the-badge" alt="Live" /></a>
-      </p>
-      <p align="center"><i>Full-stack bioinformatics web app</i></p>
-      <ul>
-        <li>🔍 6-frame ORF finding & visualization</li>
-        <li>🧬 Needleman-Wunsch global alignment</li>
-        <li>🧪 Primer Tm Calculator</li>
-        <li>📊 GC content & restriction site analysis</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <br>
-      <h3 align="center">📰 NEURAL FEED <i>(In Progress)</i></h3>
-      <p align="center"><i>AI news aggregator prototype built with React</i></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 💻 Tech Stack & Lab Skills
-
-<table align="center" width="100%">
-  <tr>
-    <td width="70%" align="center" valign="middle">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,github,vercel,linux,bash&perline=10" />
-      </a>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/xTiTndQ1jDcUEYOASw/giphy.gif" width="120" alt="Rotating 3D Model" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-| 🔬 Dry Lab & Bioinformatics | 🧬 Wet Lab & Biology | 📚 Currently Learning |
-|:---|:---|:---|
-| • **Molecular Docking:** AutoDock Vina, PyMOL, Schrödinger/Glide | • **Genetics:** DNA repair, expression, recombination | • **Python for Bio:** Biopython, pandas, NumPy |
-| • **Databases:** NCBI, UniProt, PDB | • **Zoology:** Drosophila genetics, embryology, histology | • **R / ggplot2:** Genomics data analysis |
-| • **Analysis:** BLAST, Sequence alignment | • **Lab Basics:** Pipetting, buffer prep, microscopy | • **Structural Bio:** Molecular dynamics |
-
-</div>
-
-<br>
-
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <picture>
@@ -145,20 +167,14 @@
 
 <br>
 
-## 📈 GitHub Streak
+## Let's Talk About
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanchitk866-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-## 💬 Let's Talk About
-
-- 🤖 Using AI tools as a life sciences student in India
-- 🚀 Building real products with zero CS background & zero budget
-- 🎯 IIT JAM Biotechnology 2028 preparation
-- 💊 Molecular docking & computational drug discovery
+- Data science for biology students
+- Excel, SQL, Power BI, Python, R, and machine learning
+- Bioinformatics and computational biology
+- AI tools for life sciences education
+- Molecular docking, MD simulation, RNA-seq, and computational drug discovery
+- Building useful projects without a traditional CS background
 
 <br>
 
@@ -166,7 +182,6 @@
   <img src="https://komarev.com/ghpvc/?username=sanchitk866-glitch&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <br><br>
   <blockquote>
-    <p><i>"Started with zero — no coding background, no team, no budget. Still shipping."</i></p>
-    <p><i>Building BioEdge India so no Indian biology student has to figure it out alone.</i></p>
+    <p><i>"Learning biology, data science, and computational tools by building projects that make life sciences easier to explore."</i></p>
   </blockquote>
 </div>
