@@ -1,187 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22C55E,0A66C2&height=250&section=header&text=Sanchit%20Kumar&fontSize=70&fontAlignY=35&desc=Data%20Science%20%2B%20Computational%20Biology%20%7C%20AI%20for%20Life%20Sciences&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2E,45:0A66C2,100:16C784&height=285&section=header&text=Sanchit%20Kumar&fontSize=72&fontColor=FFFFFF&fontAlignY=34&desc=Data%20Science%20%C3%97%20Computational%20Biology&descSize=22&descAlignY=54&animation=fadeIn" alt="Sanchit Kumar - Data Science and Computational Biology" />
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=Life+Sciences+Undergrad;Data+Science+Learner;Computational+Biology+Builder;Bioinformatics+%2B+AI+for+Biology;Building+BioEdge+India" alt="Typing SVG" />
-</h2>
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=23&duration=2800&pause=800&color=16C784&center=true&vCenter=true&width=780&lines=Life+Sciences+Student+%7C+Future+Data+Scientist;Turning+biological+questions+into+data-driven+answers;Python+%7C+Bioinformatics+%7C+AI+for+Life+Sciences" alt="Typing introduction" />
+</a>
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-kumar-rai/)
-[![BioEdge India](https://img.shields.io/badge/BioEdge_India-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://bioedgeindia.vercel.app/)
-[![GeneScope Web](https://img.shields.io/badge/GeneScope_Web-000000?style=for-the-badge&logo=flask&logoColor=white)](https://dna-sequence-analyzer-gamma.vercel.app/)
+[![BioEdge India](https://img.shields.io/badge/BioEdge%20India-16C784?style=for-the-badge&logo=google-scholar&logoColor=white)](https://bioedgeindia.vercel.app/)
+[![GeneScope Web](https://img.shields.io/badge/GeneScope%20Web-071A2E?style=for-the-badge&logo=dna&logoColor=white)](https://dna-sequence-analyzer-gamma.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bioedgeindia.online)
+
+<br />
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanchitk866-glitch&style=for-the-badge&color=16C784&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+---
 
-## About Me
+<img align="right" width="365" src="https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071A2E&title_color=16C784&icon_color=22D3EE&text_color=E2E8F0&ring_color=16C784" alt="Sanchit's GitHub statistics" />
+
+## Hey, I'm Sanchit
+
+I am a **B.Sc. Life Sciences student** at **Sri Aurobindo College, University of Delhi**, preparing for a career as a **data scientist in biotech, healthcare, research, or another data-driven field**.
+
+I am learning to connect **biology + data + computation**: from analysing biological sequences to exploring molecular interactions and turning complex datasets into clear visual stories.
+
+<br />
 
 <table>
-<tr>
-<td width="62%">
-
-I am a **B.Sc. Life Sciences student at Sri Aurobindo College, University of Delhi**, building my path toward becoming a **data scientist in biotech or other data-driven fields**, with a strong foundation in **computational biology and AI-driven life sciences**.
-
-My goal is to become strong at the intersection of:
-
-- **Biology:** genetics, molecular biology, biotechnology, drug discovery, and omics
-- **Data Science:** Python, SQL, Excel, Power BI, statistics, machine learning, and visualization
-- **Computational Biology:** sequence analysis, molecular docking, MD simulation, RNA-seq, and biological databases
-- **AI for Education:** building accessible tools for Indian life sciences students
-
-I started with **zero coding background**, and I am learning by building real projects from scratch.
-
-</td>
-<td width="38%" align="center">
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreDAzdnVsdW1sc2I0dWlhaGpvZ2xkMzI0ZHNxYWU4NzBtbTNmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Life sciences animation"/>
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/01-0A66C2?style=for-the-badge" alt="01" /><br />
+      <b>DATA</b><br />
+      Python, SQL, R, Excel,<br />Power BI, statistics & ML
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/02-16C784?style=for-the-badge" alt="02" /><br />
+      <b>BIOLOGY</b><br />
+      Molecular biology, genetics,<br />biotechnology & drug discovery
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/03-22D3EE?style=for-the-badge" alt="03" /><br />
+      <b>COMPUTATION</b><br />
+      Sequence analysis, docking,<br />MD simulation & RNA-seq
+    </td>
+  </tr>
 </table>
 
-<br>
+<br />
 
-## Current Goal
+> **Mission:** build useful, accessible tools and insights at the intersection of data science and life sciences.
 
-> To grow into a **data scientist** who can work in biotech, healthcare, research, or any data-driven field by combining **biology, statistics, programming, machine learning, and computational biology**.
+---
 
-I am currently focused on:
+## Current Focus
 
-- Learning **Python for data science and biology**
-- Practicing **NumPy, pandas, seaborn, Matplotlib, statistics, visualization, and machine learning**
-- Building skills in **Excel, Power BI, SQL, R, and dashboarding**
-- Exploring **Biopython, BLAST, NCBI, UniProt, PDB, and sequence analysis**
-- Studying **molecular docking, MD simulation, RNA-seq, and computational drug discovery**
-- Completing **Microsoft DL-600** and **Data Analyst with AI by Physics Wallah**
-- Preparing for **IIT JAM Biotechnology 2028**
-- Building **BioEdge India** as a free learning platform for biology students
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Learning Now</h3>
+      <ul>
+        <li>Python data analysis with <b>NumPy, pandas, seaborn, and Matplotlib</b></li>
+        <li><b>Excel, SQL, Power BI, R</b>, dashboards, and data storytelling</li>
+        <li>Statistics and practical machine-learning foundations</li>
+        <li>Microsoft <b>DL-600</b> and <b>Data Analyst with AI</b> by Physics Wallah</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Biology + Computation</h3>
+      <ul>
+        <li>Biopython, BLAST, NCBI, UniProt, PDB, and sequence analysis</li>
+        <li>Molecular docking and structure-based drug discovery</li>
+        <li>Molecular dynamics (MD) simulation fundamentals</li>
+        <li>RNA-seq analysis and omics data exploration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br>
+<div align="center">
 
-## What I Have Built
+`BIOLOGY` &nbsp; + &nbsp; `CODE` &nbsp; + &nbsp; `CURIOSITY` &nbsp; = &nbsp; `BETTER QUESTIONS`
 
-<table align="center">
+</div>
+
+---
+
+## Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">BioEdge India</h3>
-      <p align="center">
-        <a href="https://bioedgeindia.vercel.app/"><img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge" alt="Live" /></a>
+      <p align="center"><a href="https://bioedgeindia.vercel.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-16C784?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore BioEdge India" /></a></p>
+      <p align="center"><i>An AI-powered learning platform for Indian life sciences students.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Biology%20Chatbot-0A66C2?style=flat-square" alt="AI biology chatbot" />
+        <img src="https://img.shields.io/badge/50%2B%20AI%20Tools-16C784?style=flat-square" alt="50 plus AI tools" />
+        <img src="https://img.shields.io/badge/Career%20Roadmaps-22D3EE?style=flat-square" alt="Career roadmaps" />
       </p>
-      <p align="center"><i>Free AI-powered platform for Indian life sciences students</i></p>
       <ul>
-        <li>AI Biology Chatbot powered by Gemini</li>
-        <li>Curated directory of 50+ AI tools</li>
-        <li>Career roadmaps for biotechnology and research</li>
-        <li>Career recommendation engine built with Claude</li>
+        <li>AI biology chatbot powered by Gemini</li>
+        <li>Curated life sciences AI-tool directory</li>
+        <li>Career guidance and recommendation tools</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">GeneScope Web</h3>
-      <p align="center">
-        <a href="https://dna-sequence-analyzer-gamma.vercel.app/"><img src="https://img.shields.io/badge/Live-22C55E?style=for-the-badge" alt="Live" /></a>
+      <p align="center"><a href="https://dna-sequence-analyzer-gamma.vercel.app/"><img src="https://img.shields.io/badge/Explore%20Live%20Project-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore GeneScope Web" /></a></p>
+      <p align="center"><i>A browser-based toolkit for DNA sequence analysis.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Sequence%20Analysis-16C784?style=flat-square" alt="Sequence analysis" />
+        <img src="https://img.shields.io/badge/ORF%20Finding-0A66C2?style=flat-square" alt="ORF finding" />
+        <img src="https://img.shields.io/badge/Alignment-22D3EE?style=flat-square" alt="Alignment" />
       </p>
-      <p align="center"><i>Bioinformatics web app for DNA sequence analysis</i></p>
       <ul>
-        <li>6-frame ORF finding and visualization</li>
+        <li>Six-frame ORF detection and visualisation</li>
         <li>Needleman-Wunsch global alignment</li>
-        <li>Primer melting temperature calculator</li>
-        <li>GC content and restriction site analysis</li>
+        <li>Primer melting temperature, GC-content, and restriction-site analysis</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <br>
-      <h3 align="center">NEURAL FEED <i>(In Progress)</i></h3>
-      <p align="center"><i>AI news aggregator prototype built with React</i></p>
     </td>
   </tr>
 </table>
 
-<br>
-
-## Skills I Am Building
-
 <div align="center">
 
-| Data Science & Analytics | Computational Biology | Life Sciences |
-|:---|:---|:---|
-| Python, R | Biopython | Molecular biology |
-| NumPy, pandas | BLAST, sequence alignment | Genetics |
-| Matplotlib, seaborn | NCBI, UniProt, PDB | Biotechnology |
-| Excel, Power BI | Molecular docking | DNA repair and expression |
-| SQL | MD simulation | RNA biology basics |
-| Statistics | RNA-seq analysis | Lab basics and microscopy |
-| Machine learning basics | AutoDock Vina, PyMOL | Drug discovery concepts |
+### NEURAL FEED <sub><sup>IN PROGRESS</sup></sub>
+
+<i>An AI-news aggregator prototype built with React.</i>
 
 </div>
 
-<br>
+---
 
-## Tech Stack
+## Skill Constellation
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,github,vercel,linux,bash&perline=10" alt="Tech stack icons" />
-  </a>
+
+<b>Data Science & Analytics</b><br />
+<img src="https://img.shields.io/badge/Python-071A2E?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/NumPy-071A2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-071A2E?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="pandas" />
+<img src="https://img.shields.io/badge/Seaborn-071A2E?style=for-the-badge&logo=python&logoColor=22D3EE" alt="seaborn" />
+<img src="https://img.shields.io/badge/Matplotlib-071A2E?style=for-the-badge&logo=python&logoColor=16C784" alt="Matplotlib" />
+<br />
+<img src="https://img.shields.io/badge/SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/R-0A66C2?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+<img src="https://img.shields.io/badge/Machine%20Learning-16C784?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine learning" />
+
+<br />
+<br />
+
+<b>Computational Biology</b><br />
+<img src="https://img.shields.io/badge/Biopython-16C784?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
+<img src="https://img.shields.io/badge/Sequence%20Analysis-16C784?style=for-the-badge&logo=dna&logoColor=white" alt="Sequence analysis" />
+<img src="https://img.shields.io/badge/Molecular%20Docking-16C784?style=for-the-badge&logo=moleculer&logoColor=white" alt="Molecular docking" />
+<img src="https://img.shields.io/badge/MD%20Simulation-16C784?style=for-the-badge&logo=moleculer&logoColor=white" alt="MD simulation" />
+<img src="https://img.shields.io/badge/RNA--seq-16C784?style=for-the-badge&logo=dna&logoColor=white" alt="RNA sequencing" />
+<br />
+<img src="https://img.shields.io/badge/BLAST-0A66C2?style=for-the-badge" alt="BLAST" />
+<img src="https://img.shields.io/badge/NCBI-0A66C2?style=for-the-badge" alt="NCBI" />
+<img src="https://img.shields.io/badge/UniProt-0A66C2?style=for-the-badge" alt="UniProt" />
+<img src="https://img.shields.io/badge/PDB-0A66C2?style=for-the-badge" alt="Protein Data Bank" />
+<img src="https://img.shields.io/badge/AutoDock%20Vina-0A66C2?style=for-the-badge" alt="AutoDock Vina" />
+<img src="https://img.shields.io/badge/PyMOL-0A66C2?style=for-the-badge" alt="PyMOL" />
+
 </div>
 
-<br>
+---
 
-## Learning Roadmap
+## From Student to Scientist
 
-```text
-Biology foundation
-  -> Python and data analysis
-  -> Excel, SQL, Power BI, and dashboards
-  -> Statistics, R, and visualization
-  -> Bioinformatics databases and tools
-  -> Machine learning for biological data
-  -> Molecular docking, MD simulation, and structural biology
-  -> RNA-seq and omics data analysis
-  -> Research-grade computational biology projects
+```mermaid
+flowchart LR
+    A[Life Sciences Foundation] --> B[Data Analysis]
+    B --> C[Bioinformatics]
+    C --> D[Computational Biology]
+    D --> E[Data Scientist in Biotech]
+
+    style A fill:#0A66C2,stroke:#071A2E,color:#fff
+    style B fill:#16C784,stroke:#071A2E,color:#071A2E
+    style C fill:#22D3EE,stroke:#071A2E,color:#071A2E
+    style D fill:#0A66C2,stroke:#071A2E,color:#fff
+    style E fill:#16C784,stroke:#071A2E,color:#071A2E
 ```
 
-<br>
-
-## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk866-glitch&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk866-glitch&layout=compact&hide_border=true&bg_color=071A2E&title_color=16C784&text_color=E2E8F0" height="170" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com?user=sanchitk866-glitch&hide_border=true&background=071A2E&ring=16C784&fire=22D3EE&currStreakLabel=16C784&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" height="170" alt="GitHub contribution streak" />
+
 </div>
 
-<br>
-
-## Contribution Graph
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanchitk866-glitch/sanchitk866-glitch/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
-<br>
+### Let's connect and build something useful for life sciences.
 
-## Let's Talk About
+<i>"Learning biology, data science, and computational tools by building projects that make life sciences easier to explore."</i>
 
-- Data science for biology students
-- Excel, SQL, Power BI, Python, R, and machine learning
-- Bioinformatics and computational biology
-- AI tools for life sciences education
-- Molecular docking, MD simulation, RNA-seq, and computational drug discovery
-- Building useful projects without a traditional CS background
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanchitk866-glitch&color=22C55E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br><br>
-  <blockquote>
-    <p><i>"Learning biology, data science, and computational tools by building projects that make life sciences easier to explore."</i></p>
-  </blockquote>
 </div>
