@@ -176,7 +176,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
 
 ---
 
-## From Student to Scientist
+## My Aim From Student to Scientist
 
 ```mermaid
 flowchart LR
