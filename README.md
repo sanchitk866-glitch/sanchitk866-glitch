@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" width="365" src="https://github-stats-extended.vercel.app/api?username=sanchitk866-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071A2E&title_color=16C784&icon_color=22D3EE&text_color=E2E8F0&ring_color=16C784" alt="Sanchit's GitHub statistics" />
+<img align="right" width="365" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sanchitk866-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071A2E&title_color=16C784&icon_color=22D3EE&text_color=E2E8F0&ring_color=16C784" alt="Sanchit's GitHub statistics" />
 
 ## Hey, I'm Sanchit
 
@@ -78,6 +78,7 @@ I am learning to connect **biology + data + computation**: from analysing biolog
         <li>Molecular docking and structure-based drug discovery</li>
         <li>Molecular dynamics (MD) simulation fundamentals</li>
         <li>RNA-seq analysis and omics data exploration</li>
+        <li></li>
       </ul>
     </td>
   </tr>
