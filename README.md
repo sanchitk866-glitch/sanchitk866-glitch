@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" width="365" src="https://github-readme-stats.vercel.app/api?username=sanchitk866-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071A2E&title_color=16C784&icon_color=22D3EE&text_color=E2E8F0&ring_color=16C784" alt="Sanchit's GitHub statistics" />
+<img align="right" width="365" src="https://github-stats-extended.vercel.app/api?username=sanchitk866-glitch&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071A2E&title_color=16C784&icon_color=22D3EE&text_color=E2E8F0&ring_color=16C784" alt="Sanchit's GitHub statistics" />
 
 ## Hey, I'm Sanchit
 
@@ -190,21 +190,3 @@ flowchart LR
     style C fill:#22D3EE,stroke:#071A2E,color:#071A2E
     style D fill:#0A66C2,stroke:#071A2E,color:#fff
     style E fill:#16C784,stroke:#071A2E,color:#071A2E
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitk866-glitch&layout=compact&hide_border=true&bg_color=071A2E&title_color=16C784&text_color=E2E8F0" height="170" alt="Most used languages" />
-<img src="https://streak-stats.demolab.com?user=sanchitk866-glitch&hide_border=true&background=071A2E&ring=16C784&fire=22D3EE&currStreakLabel=16C784&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=FFFFFF" height="170" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's connect and build something useful for life sciences.
-
-<i>"Learning biology, data science, and computational tools by building projects that make life sciences easier to explore."</i>
-
-</div>
